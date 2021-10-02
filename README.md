@@ -1,2 +1,2 @@
 # TrainingWheels
-The stuff I made for training.
+The stuff I make for training.
